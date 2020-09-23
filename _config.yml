@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+title: Purple
+author: jiwon
+
+navbar-link:
+  About Me: "aboutme"
+  Resources:
+    - 
+    
+    
+# Logo
+avatar: "location"
+
+social-network-link:
+  email: cheerfulboys12@gmail.com
+  instargram: v.voiv
+  github: cheerfulboys
+  
+
+timezone: "Korea/Seoul"
+mar
